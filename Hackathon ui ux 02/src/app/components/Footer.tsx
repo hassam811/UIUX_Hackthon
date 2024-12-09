@@ -49,7 +49,7 @@ export default function Footer() {
 
       <div className="last w-full flex flex-wrap items-center justify-between gap-4">
         <div className="first text-center lg:text-left w-full lg:w-auto">
-          <h1 className="font-bold text-sm">©2022 MORENT. All rights reserved</h1>
+          <h1 className="font-bold text-sm">©2024 MORENT. All rights reserved</h1>
         </div>
         <div className="second flex flex-wrap justify-center lg:justify-end items-center gap-4 w-full lg:w-auto">
           <h1 className="font-bold text-sm">Privacy & Policy</h1>
